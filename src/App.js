@@ -1,7 +1,6 @@
 import React, { PureComponent } from 'react';
 import {LeftPanel, RightPanel} from './Components/organisms/';
 import {Profile, Repos} from './Components/templates/';
-import {table_data} from './data';
 
 import './App.css';
 
